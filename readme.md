@@ -1,3 +1,5 @@
+# This is a project management API development for a college project using LUMEN
+
 # Lumen PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
